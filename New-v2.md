@@ -15,7 +15,7 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "19300013",
+"MessageID": "25220002",
 "ShowTime": "3",
 "Button": "  عضویت در کانال Vip  ",
 "ButtonCancell": " بعدا ",
