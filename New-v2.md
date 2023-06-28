@@ -1,1 +1,24 @@
-
+{
+"Title": "⭕️ خبر فوووووووری ⭕️",
+"Description": "- خبر اومده از فردا 12 ظهر بخاطر مجدد نت رو ملی کنند ، فورا  وارد کانال بشید و پروکسی ملی بردارید تا تلگرامتون قطع نشه و بعدش فیلترشکنارو دانلود کنید 👇🏻👇🏻👇🏻",
+"Link": "tg://join?invite=0-Eg8jj6UN05NDM0",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "93900031",
+"ShowTime": "3",
+"Button": " عضویت فوری ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
