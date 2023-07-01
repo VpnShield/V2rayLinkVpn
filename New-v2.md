@@ -1,10 +1,10 @@
 {
-"Title": "چرا الکی پول فیلترشکن بدی! ",
-"Description": "از اینجا رایگان دانلود کن یک ریالم پول نده سرعتشم 3 برابر فیلترشکن پولیه 😁👇🏻",
-"Link": "tg://join?invite=mC14RANdVMdhMGE0",
-"ColorWave": "#00B8D4",
-"Color": "#00B8D4",
-"ColorWaveTwo": "#18FFFF",
+"Title": "ماهی 30 میلیون درآمد داشته باش! 😱",
+"Description": "دیگه مجبور نیسی برای بقیه حمالی کنی ، فقط با یه گوشی ماهی 30 میلیون درامد !\nتوضیحاتش تو چنل زیر دادیم 👇🏻",
+"Link": "tg://join?invite=nCD5Zxb0dZg2ZmI0",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01028373",
+"MessageID": "0013773",
 "ShowTime": "2",
-"Button": " دانلود فیلترشکن پرسرعت ",
+"Button": " عضویت فوری ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
