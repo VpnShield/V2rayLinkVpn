@@ -1,10 +1,10 @@
 {
-"Title": "⭕️ خبر #مهم",
-"Description": "* تلگرامتو ضد فیلتر کن ؛ پروکسی متصل به اینترنت ماهواره استارلینک برای هر اپراتور قرار دادیم , سریع بیا عشق کن 😉👇🏻",
-"Link": "tg://join?invite=izT11kKRGaU3MjZi",
-"ColorWave": "#AA00FF",
-"Color": "#AA00FF",
-"ColorWaveTwo": "#E040FB",
+"Title": "⚠️ خبر بسیار مهم ⚠️",
+"Description": "● به مناسبت تولد ادمین سازنده فیلترشکن به مدت 2 ساعت ورود به کانال VIP کسب درآمد  رایگانه پس سرییییع عضو شو 👇🏻",
+"Link": "tg://join?invite=GLcwgB-BHqU3OTE0",
+"ColorWave": "#00E5FF",
+"Color": "#00E5FF",
+"ColorWaveTwo": "#00B8D4",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "right",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "00111999330027",
+"MessageID": "03018039493837",
 "ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
+"Button": "  عضویت فوری   ",
+"ButtonCancell": "",
 "Closure": "true",
 "Show": "on"
 }
