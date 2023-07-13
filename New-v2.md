@@ -1,1 +1,24 @@
-
+{
+"Title": "توروخدا سرور V2Ray نخر! 😐",
+"Description": "● کانفیگای رایگان V2Ray با سرعت 3 برابری بیشتر از کانفیگای پولی رو داخل کانال قرار دادیم ، نت ملی هم دور میزنه ، رایگان رایگان برای همه 👇🏻",
+"Link": "tg://join?invite=7q3v1Gw2EfQxZWI0",
+"ColorWave": "#00B8D4",
+"Color": "#FF9100",
+"ColorWaveTwo": "#80DEEA",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "192339001",
+"ShowTime": "3",
+"Button": "  دریافت رایگان از تلگرام  ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
