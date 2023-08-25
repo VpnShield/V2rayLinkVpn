@@ -2,9 +2,9 @@
 "Title": "پرسرعت‌ترین تانل تاریخ 😎",
 "Description": "● اگه از فیلترشکنت خسته شدی بیا تو کانال یه چیز خفن و پرسرعت گذاشتیم و پین کردیم واقعا عالیه، به غیر چنل ما جای دیگه نیست 😏👇🏻",
 "Link": "tg://join?invite=UcQ05DKH6rNjNmVk",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"ColorWave": "#FFEA00",
+"Color": "#FFEA00",
+"ColorWaveTwo": "#FFFF00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -19,6 +19,6 @@
 "ShowTime": "3",
 "Button": "  عضویت فوری  ",
 "ButtonCancell": "  ",
-"Closure": "false",
+"Closure": "true",
 "Show": "on"
 }
